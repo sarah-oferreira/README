@@ -16,7 +16,7 @@
 
  🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](SEU_LINK_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarah-oliveira-ferreira-a408133a5/)
 
 
 
@@ -33,9 +33,9 @@
 
  📊 GitHub Stats
 
-![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical)
+![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=sarah-oferreira&show_icons=true&theme=radical)
 
 
  💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-oferreira&layout=compact&theme=radical)
