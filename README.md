@@ -4,26 +4,38 @@
 🚀 Passionate about technology and continuous learning  
 
 
-🧠 Technologies
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- SQL
-- Python
+👩‍💻 About Me
 
-
-📚 About Me
-
-I am an Information Systems student who loves learning new technologies and building projects to improve my skills.
-
-My goal is to grow in the technology field and become a better developer every day.
+- 🌱 I’m currently learning **Web Development**
+- 💡 Interested in **Software Development and Technology**
+- 📚 Always improving my programming skills
+- 🎯 Goal: Become a great developer
 
 
 
-🚀 Goals
+ 🌐 Connect with me
 
-- Improve my development skills
-- Build useful projects
-- Learn new technologies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](SEU_LINK_LINKEDIN)
+
+
+
+ 🧠 Languages and Tools
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql)
+
+
+
+ 📊 GitHub Stats
+
+![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical)
+
+
+ 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical)
