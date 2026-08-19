@@ -1,16 +1,16 @@
- Hi 👋 I'm Sarah
+ Hi! I'm Sarah
 
 💻 Information Systems Student  
-🚀 Passionate about technology and continuous learning  
+ Passionate about technology and continuous learning  
 
 
 
 👩‍💻 About Me
 
-- 🌱 I’m currently learning **Web Development**
-- 💡 Interested in **Software Development and Technology**
-- 📚 Always improving my programming skills
-- 🎯 Goal: Become a great developer
+- I’m currently learning **Web Development**
+- Interested in **Software Development and Technology**
+- Always improving my programming skills
+- Goal: Become a great developer
 
 
 
